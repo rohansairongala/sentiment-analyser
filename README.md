@@ -4,9 +4,9 @@ A machine learning model that classifies IMDB movie reviews as positive or negat
 
 **Live demo:** https://sentiment-analyser-rohan.streamlit.app
 
-![Positive prediction screenshot](notebooks/Screenshot_Positive.png)
+![Positive prediction screenshot](notebooks/Screenshot_Postive.png)
 ![Negative prediction screenshot](notebooks/Screenshot_Negative.png)
-![Positive prediction screenshot](notebooks/Screenshot_Positive(2).png)
+![Positive prediction screenshot](notebooks/Screenshot_Postive(2).png)
 ![Negative prediction screenshot](notebooks/Screenshot_Negative(2).png)
 
 ---
